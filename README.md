@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hi, I'm Safayat Rahman
+A passionate Full-Stack Developer from Bangladesh, currently working on ML.
+
 
 <!--
 **SR-Safayat/SR-Safayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💻 Tech Stack
+(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+(https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=gotham)
