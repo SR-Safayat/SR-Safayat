@@ -96,28 +96,6 @@ me.say_hi()
 
 ---
 
-## 📊 ANALYTICS: CORE_METRICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SR-Safayat&show_icons=true&theme=tokyonight&bg_color=050505&title_color=00F5FF&icon_color=FF2E97&text_color=ffffff&border_color=B537FF&border_radius=10&v=1" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Safayat&layout=compact&theme=tokyonight&bg_color=050505&title_color=B537FF&text_color=ffffff&border_color=00F5FF&border_radius=10&v=1" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=SR-Safayat&theme=tokyonight&background=050505&ring=00F5FF&fire=FF2E97&currStreakLabel=00F5FF&border=B537FF&border_radius=10&v=1" />
-</div>
-
----
-
-## 🏆 ACHIEVEMENT_MATRIX: TROPHIES
-
-<div align="center">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SR-Safayat&theme=radical&no-frame=true&no-bg=true&row=1&column=7&v=1" />
-</div>
 ## 🐍 CONTRIBUTION_STREAM: SNAKE
 
 <div align="center">
